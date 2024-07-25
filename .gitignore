@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/.idea/code_mooc_coursera_mlops.iml
+/.idea/modules.xml
+/.idea/workspace.xml
